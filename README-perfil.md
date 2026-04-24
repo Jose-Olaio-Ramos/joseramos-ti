@@ -43,7 +43,7 @@ Profissional de TI com 5 anos de experiência em suporte técnico, administraç�
 - Contador regressivo visual e botão de verificação manual
 - Stack: **PHP + Vanilla JS + CSS** (zero dependências externas)
 
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-0f1218?style=flat-square&logo=github&logoColor=white)](https://github.com/joseramos-ti/monitor-busca-precos)
+[![Repositório](https://img.shields.io/badge/Ver_Repositório-0f1218?style=flat-square&logo=github&logoColor=white)](https://github.com/Jose-Olaio-Ramos/Monitor-Busca-Pre-os/blob/main/README-busca-precos.md)
 
 ---
 
