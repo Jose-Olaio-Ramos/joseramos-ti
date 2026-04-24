@@ -2,7 +2,7 @@
 
 **Analista de TI · Grupo Formosa · Belém, Pará**
 
-Profissional de TI com 5 anos de experiência em suporte técnico, administração de redes e desenvolvimento de ferramentas internas de monitoramento. Atuo na manutenção e evolução da infraestrutura de TI do Grupo Formosa, com foco em disponibilidade, automação e eficiência operacional.
+Profissional de TI com 5 anos de experiência em suporte técnico, administração de redes e desenvolvimento de ferramentas internas de monitoramento. Atuo na manutenção e evolução da infraestrutura da filial AM do Grupo Formosa, com foco em disponibilidade, automação e eficiência operacional.
 
 ---
 
