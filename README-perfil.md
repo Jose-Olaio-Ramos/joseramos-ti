@@ -30,7 +30,7 @@ Profissional de TI com 5 anos de experiência em suporte técnico, administraç�
 - Atualização automática a cada 60 segundos
 - Stack: **PHP + Vanilla JS + CSS** (zero dependências externas)
 
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-0f1218?style=flat-square&logo=github&logoColor=white)](https://github.com/joseramos-ti/monitor-pdv)
+[![Repositório](https://img.shields.io/badge/Ver_Repositório-0f1218?style=flat-square&logo=github&logoColor=white)](https://github.com/Jose-Olaio-Ramos/Monitor-de-PDVs)
 
 ---
 
